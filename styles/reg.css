@@ -1,0 +1,15 @@
+h1{
+    color: #006400;
+}
+
+.how label{
+    display: block;
+}
+
+input{
+    display: block;
+}
+
+input[type=radio]{
+    display: inline-block;
+}
